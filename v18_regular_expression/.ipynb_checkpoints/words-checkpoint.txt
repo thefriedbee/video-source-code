@@ -1,0 +1,18 @@
+abcdefghijklmnopqurtuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+1234567890
+
+Ha HaHa hahaha
+
+fat, bat, cat,
+hat, sat, aat. aaat
+attribute,
+
+a, at, att, attt
+atat, atatat, atatatatatat
+
+THAT, ATTAT, AT&T
+let, abc, not
+
+元字符
+.[{()\^$|?*+

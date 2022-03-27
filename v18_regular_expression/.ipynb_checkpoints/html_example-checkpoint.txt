@@ -1,0 +1,21 @@
+<!--从html中提取W3School网站信息-->
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>title</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+  </head>
+  <body>
+    <!-- page content -->
+    <a href="https://www.w3schools.com">访问W3Schools学习编程知识！</a> 
+  </body>
+</html>
+
+
+
+
+

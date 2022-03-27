@@ -1,0 +1,7 @@
+一些不同格式的网站
+www.baidu.com
+https://www.4399.com/
+http://www.sina.com
+https://www.sina.com.cn
+https://www.pku.edu.cn/  #北京大学
+https://www.fmprc.gov.cn/  #中国外交部

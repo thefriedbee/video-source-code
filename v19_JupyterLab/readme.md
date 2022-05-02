@@ -31,33 +31,33 @@ PIP: pip install jupyterlab
 3.	文件拖拽，重命名等十分方便
 
 ### 二．运行状态边栏
-	查看所有正在运行的文件，可以控制关闭环境
+查看所有正在运行的文件，可以控制关闭环境
 
 ### 三．MarkDown索引展示
-	Notebook支持三大索引方式，对于很长的文件寻找位置非常方便。并且可以选择调整代码块缩略图，markdown具体文本，显示标题编号。
+Notebook支持三大索引方式，对于很长的文件寻找位置非常方便。并且可以选择调整代码块缩略图，markdown具体文本，显示标题编号。
 
 ### 四．功能拓展
-	JupyterLab有很多拓展功能可以进一步根据自己的需要安装，其中包括Jupyter项目组提供的拓展跟第三方的拓展。这些拓展类似于visual studio code中的第三方拓展，在稍后将操作实例中介绍。
+JupyterLab有很多拓展功能可以进一步根据自己的需要安装，其中包括Jupyter项目组提供的拓展跟第三方的拓展。这些拓展类似于visual studio code中的第三方拓展，在稍后将操作实例中介绍。
 
 ## 右边栏
 ![右边栏](./image/jupyterLab-rightbar.png)
 ### 五．属性检查器Property Inspector/Debugger等
-	1. 右上角开启，检查cell对应的定义cell属性的元数据
-	2. 开启Debugger调试器，可以通过增加断点等方式帮助调试
+1. 右上角开启，检查cell对应的定义cell属性的元数据
+2. 开启Debugger调试器，可以通过增加断点等方式帮助调试
 
 ### 六．菜单栏
 ![菜单栏](./image/jupyterLab-select.png)
 与其他软件的菜单栏大同小异，以下三点需要注意：
-	1. Cell操作基本都在Edit中
-	2. View改变工具视角
-	3. Kernel核心选项控制当前Notebook的进程
-	4. Tab：选择那个tab（用处不大，用鼠标点击要操作的tab即可）
+1. Cell操作基本都在Edit中
+2. View改变工具视角
+3. Kernel核心选项控制当前Notebook的进程
+4. Tab：选择那个tab（用处不大，用鼠标点击要操作的tab即可）
 
 
 ### 七．底部状态栏
 ![下边栏](./image/jupyterLab-bottom.png)
-	1. 右下角：Mode: 提示你在编辑代码文本，还是操纵cell
-	2. 左下角：简洁模式（只显示当前tab）；正在运行文件的状态；当前notebook运行的python核心
+1. 右下角：Mode: 提示你在编辑代码文本，还是操纵cell
+2. 左下角：简洁模式（只显示当前tab）；正在运行文件的状态；当前notebook运行的python核心
 
 ## 操作实例演示
 1.	窗口排布

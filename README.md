@@ -1,6 +1,12 @@
-## This repository is to store the code used for my programming tutorial videos
+## This repository contains codes/materials for my video tutorials
 
 Welcome to my world! Hope you like my videos.
+
+Visit me at:
+- BiliBili: 极客鸭geekDuckKonig
+- 知乎/Zhihu: 极客鸭geekDuckKonig
+- Youtube: geekDuckKonig
+
 
 ## 欢迎来到我的GitHub！
 
@@ -15,8 +21,8 @@ Welcome to my world! Hope you like my videos.
 | v8_web | 简单介绍网络的前段与后端，两者之间的交互 |
 | v10_linear_algebra | MIT线性代数资料/讲稿 |
 | v11_markdown | Markdown快速入门简介 |
-| v12_git-application | 如何使用GitHub寻找资料 | 🌟 | 
-| v13_bullet_journal | BUJO：一种快速/极简日常笔记/规划方法 |
+| v12_git-application | 如何使用GitHub寻找/下载资料 | 🌟 | 
+| v13_bullet_journal | BUJO：一种快速/极简日常笔记/规划方法 | 🌟 | 
 | v16_python_star | Python中*运算符的常见用法 |
 | v17_python_format_string2 | f-string:Python中一种更方便的打印方法 |
 | v18_regular_expression | 正则表达式快速介绍 | 🌟🌟 | 

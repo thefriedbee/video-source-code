@@ -32,7 +32,8 @@ Visit me at:
 | v21_pandas | Pandas: Python表格处理快速简介 | 🌟🌟 | 
 | v23_numpy | Numpy: Python数组处理快速简介 | 🌟 | 
 | v24_matplotlib | Matplotlib: Python画图处理快速简介 | 🌟🌟 | 
-| v26_ggplot2_seaborn | Python/R声明式编程快速简介 | 🌟 | 
-
+| v26_ggplot2_seaborn | Python/R声明式编程快速简介 | 🌟 |
+| v27_github_repository | Github项目管理入门 | 🌟 |
+| v30_data_structure | 数据结构/指针/内存管理 | 🌟 | 
 
 

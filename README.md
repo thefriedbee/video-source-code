@@ -5,7 +5,7 @@ Welcome to my world! Hope you like my videos.
 Visit me at:
 - BiliBili: 极客鸭geekDuckKonig
 - 知乎/Zhihu: 极客鸭geekDuckKonig
-- Youtube: geekDuckKonig
+- Youtube: @geekDuckKonig
 
 
 ## 欢迎来到我的GitHub！

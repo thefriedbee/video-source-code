@@ -35,5 +35,6 @@ Visit me at:
 | v26_ggplot2_seaborn | Python/R声明式编程快速简介 | 🌟 |
 | v27_github_repository | Github项目管理入门 | 🌟 |
 | v30_data_structure | 数据结构/指针/内存管理 | 🌟 | 
+| v31_deep_learning | 深度学习核心思想与入门 | 🌟 | 
 
 

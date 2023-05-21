@@ -36,5 +36,6 @@ Visit me at:
 | v27_github_repository | Github项目管理入门 | 🌟 |
 | v30_data_structure | 数据结构/指针/内存管理 | 🌟 | 
 | v31_deep_learning | 深度学习核心思想与入门 | 🌟 | 
+| v33_obsidian_v01 | Obsidian快速入门教程 | 🌟🌟 | 
 
 

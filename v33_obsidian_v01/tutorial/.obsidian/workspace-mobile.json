@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "db39e2bb4006f02f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4eed80b7118e9c09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "711cd2c63b98343e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0327b0a370fe53c7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f4f650cc65e7e13b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e22da017debd8db2",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b031aeb29b937ccf",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "e9e7f38af533d292",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d7df3243dbac746d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "fe8af1c81dbf56b7",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a0e3a0cb9a7d4d85",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "fd120baca30ab179",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      },
+      {
+        "id": "86d0532302bc5bcf",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "711cd2c63b98343e",
+  "lastOpenFiles": [
+    "tutorial/0.目录.md",
+    "tutorial/daily_notes/2023-05-24.md",
+    "tutorial/daily_notes/2023-05-26.md",
+    "tutorial/template/Daily Notes.md",
+    "tutorial/daily_notes/2023-05-25.md",
+    "tutorial/weekly_notes/2023-W20.md",
+    "tutorial/template/Weekly Notes.md",
+    "tutorial/daily_notes/2023-05-31.md",
+    "tutorial/Future_Notes.md",
+    "tutorial/daily_notes/2023-05-16.md",
+    "tutorial/4.Insert template.md",
+    "tutorial/1.Markdown语法总结.md",
+    "tutorial/2.外观风格设置.md",
+    "tutorial/3.daily notes.md",
+    "tutorial/dog.jpg"
+  ]
+}

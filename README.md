@@ -37,5 +37,6 @@ Visit me at:
 | v30_data_structure | 数据结构/指针/内存管理 | 🌟 | 
 | v31_deep_learning | 深度学习核心思想与入门 | 🌟 | 
 | v33_obsidian_v01 | Obsidian快速入门教程 | 🌟🌟 | 
-
-
+| v34_obsidian_v02 | Obsidian进阶入门教程 | 🌟🌟 | 
+| v35_linear_algebra_4spaces | 线形代数中的4种空间 | 🌟🌟 | 
+| v36_data_science_project | 数据分析流程总结 | 🌟🌟 | 

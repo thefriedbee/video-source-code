@@ -40,3 +40,4 @@ Visit me at:
 | v34_obsidian_v02 | Obsidian进阶入门教程 | 🌟🌟 | 
 | v35_linear_algebra_4spaces | 线形代数中的4种空间 | 🌟🌟 | 
 | v36_data_science_project | 数据分析流程总结 | 🌟🌟 | 
+| v38_fluent_py | 流畅的Python导读 | 🌟🌟 | 
